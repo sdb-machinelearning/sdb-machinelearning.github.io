@@ -1,0 +1,33 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Welcome to Jekyll!",
+        "excerpt": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n\n",
+        "content": "You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.\n\nTo add new posts, simply add a file in the _posts directory that follows the convention YYYY-MM-DD-name-of-post.ext and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.\n\nJekyll also offers powerful support for code snippets:\n\ndef print_hi(name)\n  puts \"Hi, #{name}\"\nend\nprint_hi('Tom')\n#=&gt; prints 'Hi, Tom' to STDOUT.\n\nCheck out the Jekyll docs for more info on how to get the most out of Jekyll. File all bugs/feature requests at Jekyll’s GitHub repo. If you have questions, you can ask them on Jekyll Talk.\n\n",
+        "url": "/jekyll/update/2019/04/06/welcome-to-jekyll/"
+      },
+    
+  
+  
+  
+  {
+    "title": "Meet the organizers!",
+    "excerpt": "\n",
+    "content": "\n\n\n  \n        \n  \t    Susan Liao\n  \t    Susan E. Liao is a PhD candidate in the Biological Chemistry Department at Johns Hopkins University School of Medicine advised by Professor Ryuya Fukunaga. Her research focuses on regulation of gene expression in developmental biology. She is interested in applications of machine learning to these questions.\n          \n          \n              \n              \n              \n            \n      \n\n\n\n\n\n  \n        \n  \t    Matt Linz\n  \t    Matt Linz is a Research Coordinator in the Department of Pediatrics at Johns Hopkins University School of Medicine. His research interests include microbiology, genetics, immunology, host-pathogen and host-microbiome interactions, and neuroscience. He is also interested in applications of machine learning and computational biology to physiology and pathogenesis as well as the eventual use of machine learning for clinical decision making.\n          \n          \n              \n              \n  \t          \n          \n      \n\n\n\n\n\n  \n        \n  \t    Jonathan Augustin\n  \t    Jonathan Augustin is a Ph.D candidate in the Department of Neuroscience at Johns Hopkins University School of Medicine. Under the guidance of Dr. Loyal Goff, his research primarily focuses on the effect long noncoding RNAs (lncRNAs) play in cortical development. He is very interested in using single cell high throughput genomics to study neurodevelopment and applying lessons learned from studying development to developmental disorders.\n          \n          \n              \n              \n  \t          \n          \n      \n\n\n\n\n\n  \n        \n  \t    Abulhair Saparov\n  \t    Abulhair Saparov is a Ph.D. candidate in the Machine Learning Department at Carnegie Mellon University, advised by Professor Tom Mitchell. His research focuses on applications of statistical machine learning to natural language processing and reasoning. He is also more broadly interested in applications of statistical machine learning to other problems.\n          \n          \n              \n              \n              \n          \n      \n\n",
+    "url": "/organizers/"
+  },
+  
+  {
+    "title": "",
+    "excerpt": "\n",
+    "content": "Final Schedule of events to be announced soon!\n\nConfirmed Speakers:\n\n\n\n\n  \n        \n  \t    Itai Yanai\n  \t    Dr. Yanai’s research focuses on the interface of gene expression, development, and evolution. Using his training as an experimental embryologist, a molecular biologist, and a computational biologist, his interest is exploring how developmental pathways evolve at the molecular level. Members of his lab carry out intricate embryological experiments at the level of individual cells and apply computational approaches to explore the resulting data. As a model system, they use the best understood animal, the nematode C. elegans. His lab developed the popular CEL-Seq method for single-cell RNA-Seq and they have used it to study stages, germ-layers, and body-plans in animal embryos. More recently, his lab is applying single-cell RNA-Seq to the study of tumorigenesis and bacterial infection.\n          \n          \n              \n              \n              \n            \n      \n\n\n\n\n\n  \n        \n  \t    Loyal Goff\n  \t    Dr. Goff is an Assistant Professor of Neuroscience in the McKusick-Nathans Institute of Genetic Medicine at Johns Hopkins University School of Medicine. His postdoctoral work was conducted under the joint mentorship of Drs. John Rinn (Harvard, SCRB) and Manolis Kellis (MIT, CSAIL) and involved the discovery, annotation, and characterization of long non-coding RNAs in a variety of cellular and developmental contexts. The Goff lab is currently focused on the roles of long noncoding RNAs on neural cell fate decisions and the application of single cell RNA-Sequencing to elucidate the developmental hierarchies during neuronal specification.\n          \n          \n              \n              \n              \n            \n      \n\n\n\n\n\n  \n        \n  \t    Juan Caicedo\n  \t    Juan Caicedo is a postdoctoral researcher at the Broad Institute of MIT and Harvard, where he investigates the use of deep learning to analyze microscopy images. Previous to this, he studied object detection problems in large scale image collections also using deep learning, at the University of Illinois in Urbana-Champaign. Juan obtained a PhD from the National University of Colombia and completed research internships in Google Research, Microsoft Research, and Queen Mary University of London as a grad student, working in problems related to large scale image classification, image enhancement, and medical image analysis. His research interest include computer vision, machine learning and computational biology.\n          \n          \n              \n              \n              \n            \n      \n\n",
+    "url": "/schedule/"
+  }
+  
+]
+

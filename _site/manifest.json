@@ -1,0 +1,9 @@
+{
+  "lang": "en-US",
+  "name": "SDB-Machine Learning for Developmental Biology",
+  "short_name": "SDB-MachineLearningforDevelopmentalBiology",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}

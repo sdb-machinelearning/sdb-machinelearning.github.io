@@ -1,0 +1,46 @@
+# Set theme
+theme: alembic-jekyll-theme
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+
+# Site settings
+url: 'https://mydomain.com'
+baseurl: ''
+title: 'SDB-Machine Learning for Developmental Biology'
+description: ''
+permalink: pretty
+
+# Header nav
+navigation_header:
+  Home: /
+  Organizers: /organizers/
+  Schedule: /schedule/
+
+# Footer nav
+navigation_footer:
+  Back to top: "#top"
+
+# Collections
+collections:
+  posts:
+    title: Posts
+    output: true
+    description: ""
+    feature_text: |
+
+    feature_image: "images/main_background.jpg"
