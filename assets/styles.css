@@ -1178,7 +1178,7 @@ body {
 .container {
   width: 110%;
   max-width: 1500px;
-  margin: 0 auto; }
+  margin: auto auto; }
 
 .header .nav,
 .footer .nav {
