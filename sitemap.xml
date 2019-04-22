@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://mydomain.com/jekyll/update/2019/04/06/welcome-to-jekyll/</loc>
+<loc>http://localhost:4000/jekyll/update/2019/04/06/welcome-to-jekyll/</loc>
 <lastmod>2019-04-06T21:54:15-04:00</lastmod>
 </url>
 <url>
-<loc>https://mydomain.com/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://mydomain.com/organizers/</loc>
+<loc>http://localhost:4000/organizers/</loc>
 </url>
 <url>
-<loc>https://mydomain.com/schedule/</loc>
+<loc>http://localhost:4000/schedule/</loc>
 </url>
 </urlset>

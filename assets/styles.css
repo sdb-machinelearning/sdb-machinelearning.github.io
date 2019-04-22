@@ -1176,9 +1176,9 @@ body {
   overflow-x: hidden; }
 
 .container {
-  width: 110%;
-  max-width: 1500px;
-  margin: auto auto; }
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto; }
 
 .header .nav,
 .footer .nav {
@@ -1646,6 +1646,11 @@ pre code {
 .typeset pre {
   white-space: pre;
   overflow-x: scroll; }
+
+.container {
+  width: 90%;
+  max-width: 100%;
+  margin: 0 auto; }
 
 img {
   vertical-align: middle; }
